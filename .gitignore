@@ -2,3 +2,12 @@
 Lib/
 Scripts/
 pyvenv.cfg
+
+# Compiler junk
+__pycache__/
+
+# Static Files
+static/
+
+# DB: SQLite
+*.sqlite3
