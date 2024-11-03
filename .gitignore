@@ -11,3 +11,6 @@ static/
 
 # DB: SQLite
 *.sqlite3
+
+logs/
+restart_script.sh
