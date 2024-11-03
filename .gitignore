@@ -13,4 +13,5 @@ static/
 *.sqlite3
 
 logs/
+*.log
 restart_script.sh

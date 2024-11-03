@@ -43,6 +43,12 @@ INSTALLED_APPS = [
     # third-party apps
     'rest_framework',
     'django_prometheus',
+    
+    'health_check',                             
+    'health_check.db',                          
+    'health_check.cache',
+    'health_check.storage',
+    'health_check.contrib.migrations',
 
     
     # my apps
