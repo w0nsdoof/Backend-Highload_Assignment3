@@ -1,6 +1,6 @@
 # created by virtualenv automatically
-Lib/
-Scripts/
+lib/
+bin/
 pyvenv.cfg
 
 # Compiler junk
