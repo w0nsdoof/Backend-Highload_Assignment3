@@ -14,4 +14,4 @@ static/
 
 logs/
 *.log
-restart_script.sh
+*.sh
